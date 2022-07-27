@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Nizar1999/Codeships/blob/master/screenshots/Banner.png" width = 55%; height=55% />
+  <img src="https://github.com/Nizar1999/Nand2Tetris/blob/master/screenshots/Banner.png" width = 55%; height=55% />
 </p>
 
 Implementation of the projects for the following chapters in [Nand2Tetris]("https://www.nand2tetris.org/")
