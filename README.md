@@ -4,7 +4,7 @@
 
 ![Languages](https://img.shields.io/badge/-HDL-orange?style=for-the-badge)
 
-[Nand2Tetris](https://www.nand2tetris.org/)
+[Projects Info](https://www.nand2tetris.org/)
 
 The projects cover the building of a computer architecture beginning with Nand logic gates to more complex logic gates, chips, registers, memory modules, all the way to the complete cultivation of a complete computer architecture.
 
