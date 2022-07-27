@@ -1,7 +1,8 @@
 <p align="center">
   <img src="https://github.com/Nizar1999/Nand2Tetris/blob/master/screenshots/Banner.png" width = 55%; height=55% />
 </p>
-![Languages](https://img.shields.io/badge/-HDL-%2303a9f4?style=for-the-badge) 
+
+![Languages](https://img.shields.io/badge/-HDL-%2303a9f4?style=for-the-badge)
 
 Implementation of the projects for the following chapters in [Nand2Tetris]("https://www.nand2tetris.org/")
 
